@@ -1,5 +1,5 @@
 /* Google Fonts Connection  */
-@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
 /* Common Featuers */
 body{
     font-family: 'Poppins', sans-serif;
@@ -9,4 +9,13 @@ body{
 }
 .honda-custom-color{
     background-color: #E76F51;
+}
+.honda-custom-text{
+    color: #E76F51;
+}
+.gray-image{
+    filter: grayscale(100%);
+}
+.filled{
+    color: #E77C40;
 }
