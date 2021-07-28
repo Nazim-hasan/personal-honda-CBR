@@ -1,0 +1,12 @@
+/* Google Fonts Connection  */
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+/* Common Featuers */
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.honda-custom-bg{
+    background-color: #264653;
+}
+.honda-custom-color{
+    background-color: #E76F51;
+}
